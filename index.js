@@ -1,4 +1,4 @@
-var nodeEnv = process.env.NODE_ENV;
+var nodeEnv = process.env.NODE_ENV || 'development';
 
 function is(env){
 	if (!Array.isArray(env)) { env = [env]; }
