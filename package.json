@@ -7,8 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-  	"name": "Mordy Tikotzky",
-  	"email": "mordytk@gmail.com"
+    "name": "Mordy Tikotzky",
+    "email": "mordytk@gmail.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qualitybath/env-is"
+  },
+  "bugs": {
+    "url": "https://github.com/qualitybath/env-is/issues"
+  },
+  "homepage": "https://github.com/qualitybath/env-is"
 }
