@@ -1,0 +1,14 @@
+{
+  "name": "env-is",
+  "version": "0.0.1",
+  "description": "Simple module to test if current NODE_ENV is or is not within a list of allowed enviroments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+  	"name": "Mordy Tikotzky",
+  	"email": "mordytk@gmail.com"
+  },
+  "license": "MIT"
+}
