@@ -1,6 +1,6 @@
 env-is
 =====================
-####Simple module to test if current NODE_ENV is or is not within a list of allowed environments 
+**Simple module to test if current NODE_ENV is or is not within a list of allowed environments**
 
 ### Usage
 
